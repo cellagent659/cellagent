@@ -1,4 +1,4 @@
-***
+
 
 ## CellAgent: Autonomous scRNA-seq and Spatial Transcriptomics Data Analysis
 
